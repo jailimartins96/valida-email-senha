@@ -2,8 +2,15 @@
 
 Projeto simples de validação de formulário em HTML/CSS/JS
 
+# Validação de Formulário
+
+- ![Release](https://img.shields.io/github/v/release/jailimartins96/valida-email-senha?color=blue)
+- ![License](https://img.shields.io/badge/license-MIT-green)
+
+Projeto simples que demonstra validação de formulário no cliente usando HTML, CSS e JavaScript.
+
 Descrição
-- Este repositório contém uma página de formulário com validação básica no cliente.
+- Este repositório contém uma página de contato com validação básica de `email` e `senha` no lado do cliente.
 
 Arquivos principais
 - `index.html` — marcação do formulário.
@@ -20,13 +27,11 @@ python -m http.server 5500
 
 3. Abra `http://127.0.0.1:5500/project/index.html` no navegador.
 
-Criar o repositório no GitHub
-- Você pode criar manualmente no GitHub e seguir as instruções para `git remote add` e `git push`.
-- Ou usar o `gh` (GitHub CLI):
-
-```bash
-gh repo create meu-usuario/validacao-de-formulario --public --source=. --remote=origin --push
-```
+Contribuições
+- Pull requests são bem-vindos. Abra uma issue antes de mudanças significativas.
 
 Licença
-- Sem licença definida (adicione uma se desejar).
+- MIT — veja o arquivo `LICENSE`.
+
+Contato
+- Autor: `jailimartins96`
