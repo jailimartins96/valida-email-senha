@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+dist/
+*.log
+*.env
+/.idea/
+__pycache__/
+*.pyc
